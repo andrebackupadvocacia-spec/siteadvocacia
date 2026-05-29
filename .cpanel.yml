@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home1/and77933/public_html/
+    - /bin/cp -R lovable-project-130ea37c/dist/* $DEPLOYPATH
