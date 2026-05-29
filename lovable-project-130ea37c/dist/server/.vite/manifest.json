@@ -1,0 +1,169 @@
+{
+  "%23tanstack-start-plugin-adapters": {
+    "file": "assets/__23tanstack-start-plugin-adapters-Cwee5PKy.js",
+    "name": "__23tanstack-start-plugin-adapters",
+    "src": "%23tanstack-start-plugin-adapters",
+    "isDynamicEntry": true
+  },
+  "/home/runner/work/siteadvocacia/siteadvocacia/lovable-project-130ea37c/src/styles.css": {
+    "file": "assets/styles-BuxAAlvy.css",
+    "src": "/home/runner/work/siteadvocacia/siteadvocacia/lovable-project-130ea37c/src/styles.css"
+  },
+  "_LeadForm-BQeYysAa.js": {
+    "file": "assets/LeadForm-BQeYysAa.js",
+    "name": "LeadForm",
+    "imports": [
+      "_server-_8UQswmw.js",
+      "_circle-check-CKh0cJD0.js"
+    ]
+  },
+  "_arrow-right-ChLoBh6d.js": {
+    "file": "assets/arrow-right-ChLoBh6d.js",
+    "name": "arrow-right",
+    "imports": [
+      "_createLucideIcon-BZ73C5St.js"
+    ]
+  },
+  "_circle-check-CKh0cJD0.js": {
+    "file": "assets/circle-check-CKh0cJD0.js",
+    "name": "circle-check",
+    "imports": [
+      "_createLucideIcon-BZ73C5St.js"
+    ]
+  },
+  "_createLucideIcon-BZ73C5St.js": {
+    "file": "assets/createLucideIcon-BZ73C5St.js",
+    "name": "createLucideIcon",
+    "imports": [
+      "_server-_8UQswmw.js",
+      "_router-M8Q7tE8T.js"
+    ],
+    "assets": [
+      "assets/logo-CeFtV5n9.png"
+    ]
+  },
+  "_router-M8Q7tE8T.js": {
+    "file": "assets/router-M8Q7tE8T.js",
+    "name": "router",
+    "isDynamicEntry": true,
+    "imports": [
+      "_server-_8UQswmw.js"
+    ],
+    "dynamicImports": [
+      "src/routes/contato.tsx?tsr-split=component",
+      "src/routes/blog.tsx?tsr-split=component",
+      "src/routes/advogados.tsx?tsr-split=component",
+      "src/routes/index.tsx?tsr-split=component"
+    ],
+    "assets": [
+      "assets/lawyer-dgBhd1_X.png",
+      "assets/hero-kdCKei3e.jpg",
+      "assets/styles-BuxAAlvy.css"
+    ]
+  },
+  "_server-_8UQswmw.js": {
+    "file": "assets/server-_8UQswmw.js",
+    "name": "server",
+    "isDynamicEntry": true,
+    "dynamicImports": [
+      "tanstack-start-manifest:v",
+      "_router-M8Q7tE8T.js",
+      "src/start.ts",
+      "%23tanstack-start-plugin-adapters"
+    ]
+  },
+  "_worker-entry-DCuUY-sc.js": {
+    "file": "assets/worker-entry-DCuUY-sc.js",
+    "name": "worker-entry",
+    "dynamicImports": [
+      "_server-_8UQswmw.js"
+    ]
+  },
+  "src/assets/hero.jpg": {
+    "file": "assets/hero-kdCKei3e.jpg",
+    "src": "src/assets/hero.jpg"
+  },
+  "src/assets/lawyer.png": {
+    "file": "assets/lawyer-dgBhd1_X.png",
+    "src": "src/assets/lawyer.png"
+  },
+  "src/assets/logo.png": {
+    "file": "assets/logo-CeFtV5n9.png",
+    "src": "src/assets/logo.png"
+  },
+  "src/routes/advogados.tsx?tsr-split=component": {
+    "file": "assets/advogados-DgINJWVG.js",
+    "name": "advogados",
+    "src": "src/routes/advogados.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_server-_8UQswmw.js",
+      "_createLucideIcon-BZ73C5St.js",
+      "_circle-check-CKh0cJD0.js",
+      "_router-M8Q7tE8T.js"
+    ]
+  },
+  "src/routes/blog.tsx?tsr-split=component": {
+    "file": "assets/blog-BdscYQ87.js",
+    "name": "blog",
+    "src": "src/routes/blog.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_server-_8UQswmw.js",
+      "_createLucideIcon-BZ73C5St.js",
+      "_arrow-right-ChLoBh6d.js",
+      "_router-M8Q7tE8T.js"
+    ]
+  },
+  "src/routes/contato.tsx?tsr-split=component": {
+    "file": "assets/contato-CtRGPzKP.js",
+    "name": "contato",
+    "src": "src/routes/contato.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_server-_8UQswmw.js",
+      "_createLucideIcon-BZ73C5St.js",
+      "_LeadForm-BQeYysAa.js",
+      "_router-M8Q7tE8T.js",
+      "_circle-check-CKh0cJD0.js"
+    ]
+  },
+  "src/routes/index.tsx?tsr-split=component": {
+    "file": "assets/index-D6DAWQre.js",
+    "name": "index",
+    "src": "src/routes/index.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_server-_8UQswmw.js",
+      "_router-M8Q7tE8T.js",
+      "_createLucideIcon-BZ73C5St.js",
+      "_LeadForm-BQeYysAa.js",
+      "_arrow-right-ChLoBh6d.js",
+      "_circle-check-CKh0cJD0.js"
+    ]
+  },
+  "src/start.ts": {
+    "file": "assets/start-v2DLQiKx.js",
+    "name": "start",
+    "src": "src/start.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-DCuUY-sc.js"
+    ]
+  },
+  "tanstack-start-manifest:v": {
+    "file": "assets/_tanstack-start-manifest_v-Bg6AeuSU.js",
+    "name": "_tanstack-start-manifest_v",
+    "src": "tanstack-start-manifest:v",
+    "isDynamicEntry": true
+  },
+  "virtual:cloudflare/worker-entry": {
+    "file": "index.js",
+    "name": "index",
+    "src": "virtual:cloudflare/worker-entry",
+    "isEntry": true,
+    "imports": [
+      "_worker-entry-DCuUY-sc.js"
+    ]
+  }
+}
