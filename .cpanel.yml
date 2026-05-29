@@ -3,4 +3,5 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home1/and77933/public_html/
     - /bin/rm -rf $DEPLOYPATH/*
-    - /bin/cp -R lovable-project-130ea37c/dist/client/* $DEPLOYPATH
+    - /bin/cp lovable-project-130ea37c/index.html $DEPLOYPATH/index.html
+    - /bin/cp -R lovable-project-130ea37c/dist/client/assets $DEPLOYPATH/assets
